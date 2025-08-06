@@ -1,6 +1,6 @@
 @use "sass:color";
-@use "@picocss/pico/scss/colors" as *;
-@use "@picocss/pico/scss/settings" as *;
+@use "colors" as *;
+@use "settings" as *;
 
 @mixin theme {
   // Header
